@@ -1,5 +1,5 @@
 import './App.css';
-import HomePageComponent from './components/HomePageComponent';
+import MainComponent from './components/MainComponent';
 
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
 
@@ -7,7 +7,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={<HomePageComponent />} />
+        <Route path='/' element={<MainComponent />} />
       </Routes>
     </BrowserRouter>
   );
