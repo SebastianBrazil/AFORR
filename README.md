@@ -1,16 +1,16 @@
 Sebastian Breve-Sanchez
 
-2/  /24
+2/9/24
 
 All For One React Rebuild
 
 This is a rebuild of the All For One Assignment. It utilizes React instead of vanilla JS. The styling and functionality are the same, however.
 
-2/8/24: Created the react files and added every component necessary for the website. All styling is done, just need the JS and the API fetches for the JS. Easier said than done, I imagine. 2/9/24 pt:1: Partially added the JS logic. It's complete on half of the components, it's just a copy/paste and adjust for the rest of the components. Getting the first component to work was not fun. 2/9/24: Done with the JS, finished. The API is local, not on Azure, so I still need to do that and replace the fetch links.
+2/8/24: Created the react files and added every component necessary for the website. All styling is done, just need the JS and the API fetches for the JS. Easier said than done, I imagine. 2/9/24 pt:1: Partially added the JS logic. It's complete on half of the components, it's just a copy/paste and adjust for the rest of the components. Getting the first component to work was not fun. 2/9/24 pt 2: Done with the JS, finished. The API is local, not on Azure, so I still need to do that and replace the fetch links. 2/9/24 pt 3: Hosted the Api to Azure, and replaced the local host links with the Azure links. Fully operational.
 
 Peer Review:
 
-### To Repopulate Node_Modules folder and run TailWind:
+### To Repopulate node_modules folder and run TailWind:
     npm install react-bootstrap bootstrap
     npm install -D tailwindcss
     npx tailwindcss init
