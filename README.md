@@ -10,10 +10,3 @@ This is a rebuild of the All For One Assignment. It utilizes React instead of va
 
 Peer Review: Jerrod Packard
 Peer Review Comments: Very nicely done, Sebastian! Your site has excellent responsiveness. Each of your endpoints has data validation where necessary and everything works as it is supposed to. Very clean.
-
-### To Repopulate node_modules folder and run TailWind:
-    npm install react-bootstrap bootstrap
-    npm install -D tailwindcss
-    npx tailwindcss init
-    npm install flowbite flowbite-react
-    npm run start
